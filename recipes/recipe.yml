@@ -29,6 +29,7 @@ modules:
         - keepassxc
         - vorta
         - steam
+        - kf6-breeze-icons
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
