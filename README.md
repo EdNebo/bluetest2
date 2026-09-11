@@ -1,3 +1,7 @@
+If you stumble here, dont use this I just wanted to try on a laptop to see if I could do it.
+Basic image with a couple of programmes that I use that dont want as flatpaks or layers
+
+
 # bluetest2 &nbsp; [![bluebuild build badge](https://github.com/ednebo/bluetest2/actions/workflows/build.yml/badge.svg)](https://github.com/ednebo/bluetest2/actions/workflows/build.yml)
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
